@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/yaap_lemonades.mk
+    $(LOCAL_DIR)/p404_lemonades.mk
 
 COMMON_LUNCH_CHOICES := \
-    yaap_lemonades-user \
-    yaap_lemonades-userdebug \
-    yaap_lemonades-eng
+    p404_lemonades-user \
+    p404_lemonades-userdebug \
+    p404_lemonades-eng
